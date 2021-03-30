@@ -2,7 +2,10 @@
 
 This article documents my Capstone project of the Data Science nanodegree with Udacity.com.  
 I have chosen specifically this project because it should have reconciliated my new knowledge on data science with python with my background on Bigdata with Scala and Spark on AWS.  
-  
+
+The project is documented in a blog post on Medium
+https://medium.com/@zohir.elkhattabi/customer-churn-with-local-pyspark-ba462a89ff5f
+
   
 ## Project Overview & problem statement
 Sparkify is a music platform that wants to reduce the churn of their paying users by executing targeted marketing campaigns. Their marketing team needs recurrently to identify customers with a high probability to leave their service or to downgrade to the free package. 
